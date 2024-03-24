@@ -68,7 +68,7 @@ The project achieves promising results in fault detection and recognition, with 
 Contributions to the project are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's goals and coding standards.
 
 ---
-
+## In the Code 
 
 3. **Prepare Data:** Prepare your audio data by placing them in the `samples` directory within the repository. Ensure that the audio files are properly labeled.
 
