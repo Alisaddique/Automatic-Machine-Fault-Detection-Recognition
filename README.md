@@ -26,7 +26,7 @@ The project consists of several key components, including:
 - **Real-time Testing:** Testing the system in real-time to classify faults in new audio samples captured from machines during operation.
 
 ## Installation <a name="installation"></a>
-## Usage
+
 To use the project, follow these steps:
 
 1. **Clone the Repository:** Clone the GitHub repository to your local machine.
@@ -68,8 +68,6 @@ The project achieves promising results in fault detection and recognition, with 
 Contributions to the project are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's goals and coding standards.
 
 ---
-
-Feel free to customize the template according to your project's specific details and requirements. A well-structured README will enhance the visibility and usability of your project on GitHub.
 
 
 3. **Prepare Data:** Prepare your audio data by placing them in the `samples` directory within the repository. Ensure that the audio files are properly labeled.
