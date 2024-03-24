@@ -39,8 +39,8 @@ To use the project, follow these steps:
 ```
 
 ## Contributors
-- [Your Name](https://github.com/Alisaddique)
-- [Collaborator Name](https://github.com/Alisaddique)
+- [Ali Saddique](https://github.com/Alisaddique)
+- [---------](https://github.com)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
