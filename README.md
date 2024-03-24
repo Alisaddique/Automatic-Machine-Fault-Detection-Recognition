@@ -26,10 +26,18 @@ The project consists of several key components, including:
 - **Real-time Testing:** Testing the system in real-time to classify faults in new audio samples captured from machines during operation.
 
 ## Installation <a name="installation"></a>
-To install and run the project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your_username/automatic-fault-detection.git`
-2. Navigate to the project directory: `cd automatic-fault-detection`
-3. Install dependencies: `pip install -r requirements.txt`
+## Usage
+To use the project, follow these steps:
+
+1. **Clone the Repository:** Clone the GitHub repository to your local machine.
+   ```
+   git clone https://github.com/your_username/automatic-machine-fault-detection.git
+   ```
+
+2. **Install Dependencies:** Install the required dependencies by running the following command in your terminal.
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage <a name="usage"></a>
 To use the project:
@@ -62,18 +70,7 @@ Contributions to the project are welcome! If you have suggestions for improvemen
 ---
 
 Feel free to customize the template according to your project's specific details and requirements. A well-structured README will enhance the visibility and usability of your project on GitHub.
-## Usage
-To use the project, follow these steps:
 
-1. **Clone the Repository:** Clone the GitHub repository to your local machine.
-   ```
-   git clone https://github.com/your_username/automatic-machine-fault-detection.git
-   ```
-
-2. **Install Dependencies:** Install the required dependencies by running the following command in your terminal.
-   ```
-   pip install -r requirements.txt
-   ```
 
 3. **Prepare Data:** Prepare your audio data by placing them in the `samples` directory within the repository. Ensure that the audio files are properly labeled.
 
