@@ -1,5 +1,4 @@
-# Automatic-Machine-Fault-Detection-Recognition
-Automatic Machine Fault Detection and Recognition  Project Description: This project aims to develop an automatic fault detection and recognition system for machines using computer vision techniques.
+
 # Automatic Machine Fault Detection and Recognition
 
 ## Overview
@@ -43,4 +42,4 @@ To use the project, follow these steps:
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+--------------------
