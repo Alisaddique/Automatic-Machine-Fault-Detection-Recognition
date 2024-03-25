@@ -2,6 +2,7 @@
 # Automatic Machine Fault Detection and Recognition
 
 ## Table of Contents
+
 1. [Introduction](#introduction)
 2. [Project Description](#project-description)
 3. [Installation](#installation)
