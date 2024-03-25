@@ -95,4 +95,4 @@ Contributions to the project are welcome! If you have suggestions for improvemen
 
 ## License
 
--This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
