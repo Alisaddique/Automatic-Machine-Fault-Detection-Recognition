@@ -16,11 +16,6 @@
 11. [Contributing](#contributing)
 12. [License](#license)
 
-## Model Architecture <a name="model-architecture"></a>
-
-The CNN model architecture comprises convolutional layers, max-pooling layers, dense layers, and dropout layers. The model is designed to learn patterns from the extracted audio features and classify faults accurately.
-
-![Model Architecture](https://github.com/Alisaddique/Automatic-Machine-Fault-Detection-Recognition/raw/main/Fault%20Detection%20using%20Computer%20Vision/Files/Diagram.png)
 
 ## Introduction <a name="introduction"></a>
 Welcome to the Automatic Machine Fault Detection and Recognition project! This project aims to develop a system capable of automatically detecting and recognizing faults in machines using audio signals and convolutional neural networks (CNNs). By leveraging computer vision techniques and machine learning models, the system can identify various types of anomalies in machine operations, such as Arcing, Corona, Looseness, and Tracking.
@@ -61,6 +56,11 @@ The features extracted from audio signals include Mel-frequency cepstral coeffic
 
 ## Model Architecture <a name="model-architecture"></a>
 The CNN model architecture comprises convolutional layers, max-pooling layers, dense layers, and dropout layers. The model is designed to learn patterns from the extracted audio features and classify faults accurately.
+## Model Architecture <a name="model-architecture"></a>
+
+The CNN model architecture comprises convolutional layers, max-pooling layers, dense layers, and dropout layers. The model is designed to learn patterns from the extracted audio features and classify faults accurately.
+
+![Model Architecture](https://github.com/Alisaddique/Automatic-Machine-Fault-Detection-Recognition/raw/main/Fault%20Detection%20using%20Computer%20Vision/Files/Diagram.png)
 
 ## Training <a name="training"></a>
 To train the model, audio samples are loaded, features are extracted, and the dataset is split into training and testing sets. The model is trained using the training data, and its performance is evaluated on the testing data.
