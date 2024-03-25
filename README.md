@@ -66,6 +66,11 @@ To train the model, audio samples are loaded, features are extracted, and the da
 ## Evaluation <a name="evaluation"></a>
 The trained model is evaluated using various performance metrics, including accuracy, F1-score, ROC curves, confusion matrices, and classification reports. These metrics provide insights into the model's ability to detect and recognize faults in machine audio signals.
 
+### Confusion Matrix
+![Confusion Matrix](https://github.com/Alisaddique/Automatic-Machine-Fault-Detection-Recognition/blob/main/Fault%20Detection%20using%20Computer%20Vision/Files/Confusion%20Matrix.png)
+
+### ROC Curve
+![ROC Curve](https://github.com/Alisaddique/Automatic-Machine-Fault-Detection-Recognition/blob/main/Fault%20Detection%20using%20Computer%20Vision/Files/ROC%20Curve.png)
 ## Results <a name="results"></a>
 The project achieves promising results in fault detection and recognition, with high accuracy and F1-score values. The ROC curves and confusion matrices demonstrate the model's effectiveness in classifying different fault types.
 
