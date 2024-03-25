@@ -19,7 +19,8 @@
 
 The CNN model architecture comprises convolutional layers, max-pooling layers, dense layers, and dropout layers. The model is designed to learn patterns from the extracted audio features and classify faults accurately.
 
-![Model Architecture]([images/model_architecture.png](https://github.com/Alisaddique/Automatic-Machine-Fault-Detection-Recognition/blob/main/Fault%20Detection%20using%20Computer%20Vision/Files/Diagram.png)
+![Model Architecture](https://github.com/Alisaddique/Automatic-Machine-Fault-Detection-Recognition/raw/main/Fault%20Detection%20using%20Computer%20Vision/Files/Diagram.png)
+
 ## Introduction <a name="introduction"></a>
 Welcome to the Automatic Machine Fault Detection and Recognition project! This project aims to develop a system capable of automatically detecting and recognizing faults in machines using audio signals and convolutional neural networks (CNNs). By leveraging computer vision techniques and machine learning models, the system can identify various types of anomalies in machine operations, such as Arcing, Corona, Looseness, and Tracking.
 
