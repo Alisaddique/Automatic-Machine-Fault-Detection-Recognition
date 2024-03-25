@@ -55,8 +55,6 @@ The dataset used in this project consists of audio samples recorded from machine
 The features extracted from audio signals include Mel-frequency cepstral coefficients (MFCC), chroma features, and mel spectrograms. These features are used to characterize the underlying patterns in the audio data.
 
 ## Model Architecture <a name="model-architecture"></a>
-The CNN model architecture comprises convolutional layers, max-pooling layers, dense layers, and dropout layers. The model is designed to learn patterns from the extracted audio features and classify faults accurately.
-## Model Architecture <a name="model-architecture"></a>
 
 The CNN model architecture comprises convolutional layers, max-pooling layers, dense layers, and dropout layers. The model is designed to learn patterns from the extracted audio features and classify faults accurately.
 
@@ -96,4 +94,5 @@ Contributions to the project are welcome! If you have suggestions for improvemen
 
 
 ## License
---------------------
+
+-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
